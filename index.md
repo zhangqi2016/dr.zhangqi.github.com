@@ -44,9 +44,18 @@ Research fields: environmental economics, regional economics, etc.
 
 1. Sep. 2017 - Present   **Research on the development of biomedical industry in Beibu Gulf Economic Zone** by Nanning Development and Reform Commission. (No. GXXMGL-ZB-(FC)2017459)
 
+1. Oct. 2015 - May. 2018  **Research on the Model, Strategy and Path of Developmental Finance Supporting the Transformation of Shanty Towns** by China Development Bank.
+
+1. Dec. 2015 - Mar. 2018  **Master Plan for the Construction of the "Tongpingxiu" Sub-regional Cooperation Demonstration Zone in the Middle Reaches of the Yangtze River** by Tongcheng & Pingjiang & Xiushui Development and Reform Commission.
+
+1. Jun. 2016 - Oct. 2016         **Research on the Development Model of Circular Economy in Industrial Parks in Hubei Province** by Hubei Provincial Development and Reform Commission. (20162208)
+
+1. Jun. 2016 - Aug. 2016        **The 13th Five-Year Development Plan of Food Industry in Wuhan Airport Economic and Technological Development Zone** by Wuhan Airport Economic and Technological Development Zone Food Industry Management Office. (20162277)
+
+1. Sep. 2015 - Nov. 2015        **The 13th Five-Year Plan for Economic and Social Development of Echeng New District** by Echeng New District Management Committee. (20152299)
 
 
-# Workingpapers
+## Academic Conferences
 
 
 
