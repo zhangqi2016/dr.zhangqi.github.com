@@ -36,7 +36,7 @@ Research fields: environmental economics, regional economics, etc.
 # Research experiences
 ## Projects Involved (As Main Participant)
 1. Nov.2018 - Present  **Research on the mechanism, path and policy system of environmental protection and high-quality economic development** supported by China National Social Science Fund. (Major Project, No. 18ZDA050) 
-2. Jun.2017 - Present  **The effect measurement of environmental regulation affecting green economy growth, local strategy and policy simulation research** supported by China National Social Science Fund. (No. 17BJY065)
+1. Jun.2017 - Present  **The effect measurement of environmental regulation affecting green economy growth, local strategy and policy simulation research** supported by China National Social Science Fund. (No. 17BJY065)
 
 3. Jun. 2018 - Present **Technological Innovation, Environmental Regulation and Research on Green Economy Growth in Hubei Province** by CPC Hubei Provincial Committee Policy Research Office & Hubei Provincial Comprehensive Deepening Reform Leading Group Office. (No. LX201808)
 
