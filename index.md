@@ -19,9 +19,9 @@ Research fields: environmental economics, regional economics, etc.
  
 1. Sep. 2016 - Present        Ph.D. Candidate in Population, Resources and Environmental Economics  Huazhong University of Science and Technology - Wuhan, China 
 
-2. Sep. 2015 - Jun. 2016    M.Ec. in Microeconomics & Macroeconomics  Huazhong University of Science and Technology - Wuhan, China
+1. Sep. 2015 - Jun. 2016    M.Ec. in Microeconomics & Macroeconomics  Huazhong University of Science and Technology - Wuhan, China
 
-3. Sep. 2010 - Jun. 2014    B.Ec. in Investment, Hubei University of Economics - Wuhan, China 
+1. Sep. 2010 - Jun. 2014    B.Ec. in Investment, Hubei University of Economics - Wuhan, China 
 
 
 # Publications & Workingpapers
@@ -38,11 +38,11 @@ Research fields: environmental economics, regional economics, etc.
 1. Nov.2018 - Present  **Research on the mechanism, path and policy system of environmental protection and high-quality economic development** supported by China National Social Science Fund. (Major Project, No. 18ZDA050) 
 1. Jun.2017 - Present  **The effect measurement of environmental regulation affecting green economy growth, local strategy and policy simulation research** supported by China National Social Science Fund. (No. 17BJY065)
 
-3. Jun. 2018 - Present **Technological Innovation, Environmental Regulation and Research on Green Economy Growth in Hubei Province** by CPC Hubei Provincial Committee Policy Research Office & Hubei Provincial Comprehensive Deepening Reform Leading Group Office. (No. LX201808)
+1. Jun. 2018 - Present **Technological Innovation, Environmental Regulation and Research on Green Economy Growth in Hubei Province** by CPC Hubei Provincial Committee Policy Research Office & Hubei Provincial Comprehensive Deepening Reform Leading Group Office. (No. LX201808)
 
-4. Jan. 2018 - Present   **Strengthening technological innovation and environmental regulation to promote green and low carbon development in the Yangtze River Economic Belt** by Huazhong University of Science and Technology.
+1. Jan. 2018 - Present   **Strengthening technological innovation and environmental regulation to promote green and low carbon development in the Yangtze River Economic Belt** by Huazhong University of Science and Technology.
 
-5. Sep. 2017 - Present   **Research on the development of biomedical industry in Beibu Gulf Economic Zone** by Nanning Development and Reform Commission. (No. GXXMGL-ZB-(FC)2017459)
+1. Sep. 2017 - Present   **Research on the development of biomedical industry in Beibu Gulf Economic Zone** by Nanning Development and Reform Commission. (No. GXXMGL-ZB-(FC)2017459)
 
 
 
